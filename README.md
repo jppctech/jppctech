@@ -1,4 +1,4 @@
-<h1>💫 About Me:<h1/>
+<h1>💫 About Me:</h1>
 
 🔭 I’m currently working on:
 Improving cloud-based solutions and implementing microservices architecture.
