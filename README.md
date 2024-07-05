@@ -1,6 +1,6 @@
 <h1>💫 About Me:</h1>
 
-🔭 I’m currently working on:
+🔭 I’m currently working on:</br>
 Improving cloud-based solutions and implementing microservices architecture.
 
 👯 I’m looking to collaborate on:
